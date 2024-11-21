@@ -1,6 +1,4 @@
-# Advanced Geocomputing Final Project
-
-## Personalized Custom Routing Creation Tool
+# Personalized Custom Routing Creation Tool
 
 By Laure Briol with the assistance of Generative AI
 
@@ -88,3 +86,12 @@ The project is an interactive map, meaning it cannot split into multiple pieces.
 ### Output
 
 The output is a final interactive map that can be used to create a custom route. There are buttons and a text input box at the top for saving & loading existing map json features. Below that, there is a button to toggle, which enables the user to add new points to the map and a checkbox to enable a user to return to the start point. The map itself is then displayed and has the option to draw a polygon area for avoiding features (when the 'Add Locations' is toggled to off). An 'Optimize Routes' button is displayed at the bottom of the screen. When the optimize routes button is clicked, the program will find the best route and display it on the map, as well as print step-by-step directions below the map display.
+
+
+## Run this project
+
+Open the Binder link below, wait a minute or two, and it will launch an interactive Jupyter Notebook containing my code. Input your own OpenRouteService API Key, then run all the cells (click Run at the top--> Run All Cells) and the program will run an interactive map application at the bottom!
+
+https://mybinder.org/v2/gh/Briol009/CustomMapRoutes/main?labpath=CustomRouting.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Briol009/CustomMapRoutes/main?labpath=CustomRouting.ipynb)
