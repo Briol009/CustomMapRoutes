@@ -2,4 +2,4 @@ ipywidgets
 ipyleaflet
 openrouteservice
 ortools
-shpaely
+shapely
