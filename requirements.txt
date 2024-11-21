@@ -1,0 +1,5 @@
+ipywidgets
+ipyleaflet
+openrouteservice
+ortools
+shpaely
