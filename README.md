@@ -92,6 +92,6 @@ The output is a final interactive map that can be used to create a custom route.
 
 Open the Binder link below, wait a minute or two, and it will launch an interactive Jupyter Notebook containing my code. Input your own OpenRouteService API Key, then run all the cells (click Run at the top--> Run All Cells) and the program will run an interactive map application at the bottom!
 
-https://mybinder.org/v2/gh/Briol009/CustomMapRoutes/main?labpath=CustomRouting.ipynb
+https://mybinder.org/v2/gh/briollaure/CustomMapRoutes/main?labpath=CustomRouting.ipynb
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Briol009/CustomMapRoutes/main?labpath=CustomRouting.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/briollaure/CustomMapRoutes/main?labpath=CustomRouting.ipynb)
